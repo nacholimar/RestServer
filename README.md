@@ -23,6 +23,6 @@ Using the `POST Create a New User` request from the collection, inspect the data
 If you're happy with the data, press `Send` on the UI or hit `Ctrl+Enter` to create the new user. You can use the `UsersGet` request to see the new user, as well as the all the other users with the json file. 
 
 For the select users, you can add `desde` and `limite` parameters. For example:
-```json
+```txt
 /api/users?desde=0&limite=4
 ```
