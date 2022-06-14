@@ -1,6 +1,6 @@
 # WebServer + Rest Server
 
-## Este es un CRUD de usuarios creado en NODE.JS
+## This project is a users CRUD created in Node.JS
 
 Recuerda ejecutar '''npm install''' para reconsutrir los modulos de Node
 
