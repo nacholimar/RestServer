@@ -2,7 +2,7 @@
 
 ## This project is a users CRUD created in Node.JS
 
-Reminder execute '''npm install''' for build all Node modules
+Remember execute '''npm install''' for build all Node modules
 
 You can test this project from: https://restserver-nacholimar.herokuapp.com
 
