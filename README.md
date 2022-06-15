@@ -2,9 +2,9 @@
 
 ## This project is a users CRUD created in Node.JS
 
-Recuerda ejecutar '''npm install''' para reconsutrir los modulos de Node
+Reminder execute '''npm install''' for build all Node modules
 
-Puede probar este mismo api desde: https://restserver-nacholimar.herokuapp.com
+You can test this project from: https://restserver-nacholimar.herokuapp.com
 
 ### Using the Collection
 
